@@ -46,7 +46,7 @@ Enthusiastic B.Tech student specializing in Artificial Intelligence and Data Sci
 
 <!-- contribution heatmap stays below -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Anshulc001&theme=react-dark&hide_border=true&area=true)
-|
+
 
 
 ### ✍️ Random Dev Quote
