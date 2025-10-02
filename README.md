@@ -1,3 +1,7 @@
+# Hey 👋 I am Anshul
+
+Enthusiastic B.Tech student specializing in Artificial Intelligence and Data Science, with hands-on experience in frontend development and data visualization. Currently interning as a frontend developer using React, HTML, CSS, and JavaScript. Actively pursuing full-stack development and real-world project experience to build practical and impactful solutions.
+
 # 💫 About Me:
 🚀 currently working on a startup<br>💻 learning backend development<br>🤖 looking for help with ai<br>🌐 ask me about web development<br>📩 how to reach me: anshulc4444@gmail.com
 
