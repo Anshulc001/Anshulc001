@@ -37,7 +37,7 @@ Enthusiastic B.Tech student specializing in Artificial Intelligence and Data Sci
 
 # 📊 GitHub Stats:
 
-| ![](https://github-readme-stats.vercel.app/api?username=Anshulc001&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Anshulc001&theme=darcula&hide_border=false) |
+| ![](https://github-readme-stats.vercel.app/api?username=Anshulc001&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800) | ![](https://streak-stats.demolab.com?user=Anshulc001&theme=darcula&hide_border=false) |
 |---|---|
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulc001&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -48,5 +48,4 @@ Enthusiastic B.Tech student specializing in Artificial Intelligence and Data Sci
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
