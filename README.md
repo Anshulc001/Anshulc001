@@ -1,51 +1,72 @@
-# Hey 👋 I am Anshul
+# hey 👋 i am Anshul chauhan
 
-Enthusiastic B.Tech student specializing in Artificial Intelligence and Data Science, with hands-on experience in frontend development and data visualization. Currently interning as a frontend developer using React, HTML, CSS, and JavaScript. Actively pursuing full-stack development and real-world project experience to build practical and impactful solutions.
+an enthusiastic b.tech student specializing in **artificial intelligence and data science**, with hands-on experience in **frontend development** and **data visualization**.  
+currently interning as a **frontend developer**, working with **react, html, css, and javascript**.  
+actively learning **backend and full-stack development** while building real-world and scalable products.
 
-# 💫 About Me:
-🚀 currently working on a startup<br>💻 learning backend development<br>🤖 looking for help with ai<br>🌐 ask me about web development<br>📩 how to reach me: anshulc4444@gmail.com
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.anshul26) 
+## 💫 about me
+- 🚀 currently working on a startup  
+- 💻 learning backend development (node.js, express, databases)  
+- 🤖 exploring ai and machine learning  
+- 🌐 ask me about web development and ui/ux  
+- 📩 reach me at: **anshulc4444@gmail.com**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+---
 
-# 📊 GitHub Stats:
+## 🌐 socials
+[![instagram](https://img.shields.io/badge/instagram-%23e4405f.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/a.anshul26)
 
-| ![](https://github-readme-stats.vercel.app/api?username=Anshulc001&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800) | ![](https://streak-stats.demolab.com?user=Anshulc001&theme=darcula&hide_border=false) |
-|---|---|
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulc001&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
+## 💻 tech stack
 
-<!-- contribution heatmap stays below -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=Anshulc001&theme=react-dark&hide_border=true&area=true)
+### languages
+![python](https://img.shields.io/badge/python-3670a0?style=flat&logo=python&logoColor=ffdd54)
+![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23f7df1e)
+![typescript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white)
 
-### ✍️ Random Dev Quote
+### frontend
+![react](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361dafb)
+![next.js](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)
+![vite](https://img.shields.io/badge/vite-%23646cff.svg?style=flat&logo=vite&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?style=flat&logo=tailwind-css&logoColor=white)
+![css3](https://img.shields.io/badge/css3-%231572b6.svg?style=flat&logo=css3&logoColor=white)
+
+### backend & databases
+![node.js](https://img.shields.io/badge/node.js-6da55f?style=flat&logo=node.js&logoColor=white)
+![express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479a1.svg?style=flat&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23dd0031.svg?style=flat&logo=redis&logoColor=white)
+![dynamodb](https://img.shields.io/badge/amazon%20dynamodb-4053d6?style=flat&logo=amazon-dynamodb&logoColor=white)
+
+### cloud & deployment
+![aws](https://img.shields.io/badge/aws-%23ff9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300c7b7)
+![render](https://img.shields.io/badge/render-%2346e3b7.svg?style=flat&logo=render&logoColor=white)
+![digitalocean](https://img.shields.io/badge/digitalocean-%230167ff.svg?style=flat&logo=digitalocean&logoColor=white)
+
+### tools & ai
+![git](https://img.shields.io/badge/git-%23f05033.svg?style=flat&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![figma](https://img.shields.io/badge/figma-%23f24e1e.svg?style=flat&logo=figma&logoColor=white)
+![canva](https://img.shields.io/badge/canva-%2300c4cc.svg?style=flat&logo=canva&logoColor=white)
+![tensorflow](https://img.shields.io/badge/tensorflow-%23ff6f00.svg?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+## 📊 github stats
+
+![](https://github-readme-stats.vercel.app/api?username=Anshulc001&show_icons=true&theme=darcula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulc001&layout=compact&theme=darcula)
+
+![](https://streak-stats.demolab.com?user=Anshulc001&theme=darcula)
+
+---
+
+## ✍️ random dev quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
- 
