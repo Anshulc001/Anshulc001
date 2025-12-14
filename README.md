@@ -60,11 +60,7 @@ actively learning **backend and full-stack development** while building real-wor
 
 ## 📊 Github stats
 
-![](https://github-readme-stats.vercel.app/api?username=Anshulc001&show_icons=true&theme=darcula)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulc001&layout=compact&theme=darcula)
-
-![](https://streak-stats.demolab.com?user=Anshulc001&theme=darcula)
 
 ---
 
