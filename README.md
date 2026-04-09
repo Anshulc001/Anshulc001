@@ -15,10 +15,6 @@ actively learning **backend and full-stack development** while building real-wor
 
 ---
 
-## 🌐 Socials
-[![instagram](https://img.shields.io/badge/instagram-%23e4405f.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/a.anshul26)
-
----
 
 ## 💻 Tech stack
 
